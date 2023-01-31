@@ -1,0 +1,22 @@
+[
+    {
+        "img":"https://i.ibb.co/8xwKFSs/shire.jpg",
+        "location":"La Comté",
+        "Temperature":"7°C"
+    },
+    {
+        "img":"https://i.ibb.co/hK70bjB/rivendell.jpg",
+        "location":"Fondcombe",
+        "Temperature":"19°C"
+    },
+    {
+        "img":"https://i.ibb.co/J7s8P80/Mordor.jpg",
+        "location":"Le Mordor",
+        "Temperature":"55°C"
+    },
+    {
+        "img":"https://i.ibb.co/ZW7fFwy/Moria.jpg",
+        "location":"La Moria",
+        "Temperature":"13°C"
+    }
+]
